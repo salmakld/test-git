@@ -2,3 +2,4 @@ commit 1
 ligne from another branch:C
 ligne 1 from branche_A
 ligne 3 from branche_B
+
